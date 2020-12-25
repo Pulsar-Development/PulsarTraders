@@ -1,0 +1,9 @@
+name: PulsarTraders
+version: 1.0
+author: NukerFall
+main: org.Pulsar.PulsarTraders.Main
+description: Trade NPC plugin
+commands:
+  pulsartraders:
+    description: Main plugin command
+    aliases: [ptraders, traders, ptr]
